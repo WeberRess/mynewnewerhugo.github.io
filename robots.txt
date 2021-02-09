@@ -1,0 +1,2 @@
+User-Agent: *
+Sitemap: https:///mynewnewerhugo.github.io/sitemap.xml
